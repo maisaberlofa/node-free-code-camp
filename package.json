@@ -11,13 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
-  "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "version": "1.0.0",
-  "keywords": [],
+  "version": "1.0.1",
+  "keywords": ["freecodecamp", "study", "nodejs"],
   "author": "Maísa",
-  "license": "ISC"
+  "description": "This project is a study from Free Code Camp",
+  "license": "MIT"
 }
